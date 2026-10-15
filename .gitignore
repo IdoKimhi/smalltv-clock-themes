@@ -1,0 +1,4 @@
+# Build output that is regenerated from the theme sources
+frames/
+gallery.html
+*-source.zip
